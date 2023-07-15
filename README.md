@@ -1,3 +1,3 @@
 # Food-Project-tudude-
-Food Shop by help from tudude
+https://food-project-css-jquery.netlify.app
 ( Used HTML, CSS, Jquery )
