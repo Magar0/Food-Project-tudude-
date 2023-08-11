@@ -1,3 +1,3 @@
 # Food-Project-tudude-
-https://food-project-css-jquery.netlify.app
+https://thapa0.github.io/Food-Project-tudude-/
 ( Used HTML, CSS )
